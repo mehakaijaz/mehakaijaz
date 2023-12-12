@@ -1,6 +1,11 @@
 ### Hey Mehak here 👋
-
-I am a Django and Python Developer who is exploring Machine learning: while facilitating the world with User Experience with my Design Thinking Skills :wink:
+<a href="https://www.linkedin.com/in/apurv-shah/">
+  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+</a>
+<br/>
+<div>
+ <p>
+ I am a Django and Python Developer who is exploring Machine learning: while facilitating the world with User Experience with my Design Thinking Skills :wink:
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
@@ -10,10 +15,11 @@ I am a Django and Python Developer who is exploring Machine learning: while faci
  
  👯 I’m looking to collaborate for a Django and Full-Stack based project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
+ I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
  💬 Ask me about Django Development, Python and any Tech-related stuff.
-
+ </p>
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
