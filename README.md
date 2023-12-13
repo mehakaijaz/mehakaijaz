@@ -1,14 +1,8 @@
 ## Hey 👋, I'm Mehak Aijaz!  
   
 
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/mehak-aijaz-089b3b1a4" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/mehakaijaz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,14 +12,14 @@
 
 
 ### Glad to see you here!  
-I am a Django and Python Developer who is exploring Machine learning: while facilitating the world with User Experience with my Design Thinking Skills 😉  
+I am a Django and Python Developer who is exploring Docker and Vue.js : while facilitating the world with User Experience with my Design Thinking Skills 😉  
   
 
 <br/>  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on a project based on DRF and Django Celery.  
   
@@ -33,20 +27,13 @@ I am a Django and Python Developer who is exploring Machine learning: while faci
 - 🌱 I’m currently learning Docker and Vue.js  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Django and Python related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I likr tabs over spaces.   
 
 
-</td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -92,7 +79,11 @@ I am a Django and Python Developer who is exploring Machine learning: while faci
   
 
 <br/>  
+Let's connect 👨‍💻 and forge the future together.😁✌
 
+<h4>Check the Repositories and don't forget to give a star. 👇</h4>
+
+:star: From [mehakaijaz](https://github.com/mehakaijaz)
 
 <br />
 
