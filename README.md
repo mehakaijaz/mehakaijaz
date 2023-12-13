@@ -96,7 +96,5 @@ I am a Django and Python Developer who is exploring Machine learning: while faci
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
