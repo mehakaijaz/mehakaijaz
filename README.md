@@ -58,6 +58,7 @@ I am a Django and Python Developer who is exploring Docker and Vue.js : while fa
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img style="margin:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="25"/> </a> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="25"/> </a> </a>
 </div>  
 
 <br/>  
@@ -86,6 +87,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 :star: From [mehakaijaz](https://github.com/mehakaijaz)
 
 <br />
+
+
 
 
 
