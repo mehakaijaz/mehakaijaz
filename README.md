@@ -30,7 +30,7 @@ I am a Django and Python Developer who is exploring Docker and Vue.js : while fa
 - ❓ Ask me about anything related to Django and Python related technologies  
   
 
-- ⚡ Fun fact: I likr tabs over spaces.   
+- ⚡ Fun fact: I like tabs over spaces.   
 
 
 
