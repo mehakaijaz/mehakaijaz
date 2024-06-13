@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a Django and Python Developer who is exploring Docker and Vue.js : while facilitating the world with User Experience with my Design Thinking Skills 😉  
+I am a Django and Python Developer who is exploring Docker and React.js : while facilitating the world with User Experience with my Design Thinking Skills 😉  
   
 
 <br/>  
