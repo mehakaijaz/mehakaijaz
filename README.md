@@ -24,7 +24,7 @@ I am a Django and Python Developer who is exploring Docker and Vue.js : while fa
 - 🔭 I’m currently working on a project based on DRF and Django Celery.  
   
 
-- 🌱 I’m currently learning Docker and Vue.js  
+- 🌱 I’m currently learning Docker and React.js  
   
 
 - ❓ Ask me about anything related to Django and Python related technologies  
